@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "google-trends-api": "^4.9.2",
+    "https-proxy-agent": "^5.0.1"
+  }
+}
